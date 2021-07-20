@@ -1,0 +1,15 @@
+{
+    "type": 0,
+    "details": "I think I'm cute.⭐",
+    "state": "*WOOO!*",
+    "instance": true,
+    "assets": {
+        "large_image": "cover",
+        "large_text": "h-alice",
+        "small_image": "purple",
+        "small_text": "YO"
+     },
+    "buttons": [
+        {"label": "halice.info", "url": "https://halice.info"}
+    ]
+}
